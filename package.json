@@ -1,0 +1,47 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "Luarzito-bot",
+  "version": "2.0.0",
+  "description": "Um simples bot para o Discord!",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.1",
+    "bad-words": "^3.0.4",
+    "canvas": "^2.8.0",
+    "custom-translate": "^2.2.8",
+    "dblapi.js": "^2.4.1",
+    "discord-pages": "^1.0.1",
+    "discord-slash-commands-client": "^1.2.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "firebase": "^8.6.3",
+    "fs": "^0.0.2",
+    "g-i-s": "^2.1.6",
+    "minecraft-server-util": "^3.5.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "node-reverse-image-search": "^1.0.2",
+    "quick.db": "^7.1.2",
+    "snekfetch": "^4.0.4",
+    "solenolyrics": "^5.0.0",
+    "superagent": "^6.1.0",
+    "weather-js": "^2.0.0"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
