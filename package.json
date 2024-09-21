@@ -11,7 +11,7 @@
     "dl": "node bot/deploy/delete.js"
   },
   "dependencies": {
-    "@firebase/app": "^0.9.29",
+    "@firebase/app": "^0.10.10",
     "@firebase/database": "^1.0.6",
     "axios": "^1.7.2",
     "canvas": "^2.11.2",
